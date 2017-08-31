@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<configuration version="1.0.7.16">
+<configuration version="1.0.10.0">
   <General>
     <HarmonyPath path="../.."/>
+    <Processor name="PIC32MX250F128B"/>
     <ForceOptimization flag="true"/>
+    <MergeStrategy flag="USER_ALL"/>
   </General>
   <Manifest>
     <Files>
