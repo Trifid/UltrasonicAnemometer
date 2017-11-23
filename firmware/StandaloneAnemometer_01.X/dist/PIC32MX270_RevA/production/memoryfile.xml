@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/PIC32MX270_RevA/production/StandaloneAnemometer_01.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>263312</length>                 
+      <used>36756</used>                     
+      <free>226556</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>4236</used>                     
+      <free>61300</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
